@@ -5,5 +5,10 @@
   "type": "project",
   "license": "MIT",
   "minimum-stability": "stable",
-  "require": {}
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "siro_yeah": "src"
+    }
+  }
 }
