@@ -1,5 +1,5 @@
 {
-  "name": "siro/qrcode_reader",
+  "name": "siro_yeah/qrcode_reader",
   "description": "A short description of what your package does",
   "keywords": ["qrcode","decode","zxing"],
   "type": "project",
