@@ -5,10 +5,5 @@
   "type": "project",
   "license": "MIT",
   "minimum-stability": "stable",
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "qhQrCodeReader": "src"
-    }
-  }
+  "require": {}
 }
