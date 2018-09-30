@@ -8,7 +8,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "siro_yeah": "src"
+      "siro_yeah": "src/"
     }
   }
 }
